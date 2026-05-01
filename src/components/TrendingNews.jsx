@@ -32,7 +32,7 @@ const TrendingNews = () => {
 
   return (
     <div className="p-4 max-w-7xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-left text-blue-600">Trending News</h1>
+      <h1 className="text-3xl font-bold mb-6 text-left text-blue-600">Provinces News</h1>
 
       <div
         ref={scrollRef}

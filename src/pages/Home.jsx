@@ -13,10 +13,12 @@ const Home = () => {
     <div>
      
       <TopNewsSlider/>
-       <NewsList />
-      <TrendingNews/>
-      <ToInternatioalNews/>
+       {/* <NewsList /> */}
+       <ToInternatioalNews/>
+    
+      
       <SkarduNews/>
+        <TrendingNews/>
     
     </div>
   )
