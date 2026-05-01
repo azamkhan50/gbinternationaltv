@@ -44,7 +44,7 @@ const TrendingNews = () => {
             className="flex-shrink-0 w-[90vw] sm:w-[45vw] md:w-[600px] bg-gray-200 shadow-lg rounded-2xl overflow-hidden"
           >
             <img
-              src={news.imag}
+              src={news.img}
               alt={news.title}
               className="w-full h-48 object-cover"
             />
