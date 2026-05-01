@@ -14,7 +14,7 @@ const Home = () => {
      
       <TopNewsSlider/>
        {/* <NewsList /> */}
-       <ToInternatioalNews/>
+       {/* <ToInternatioalNews/> */}
     
       
       <SkarduNews/>

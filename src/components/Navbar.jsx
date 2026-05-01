@@ -16,7 +16,7 @@ const Navbar = () => {
         { path: '/contact', label: 'Contact' },
         // { path: '/blog', label: 'Blog' },
         { path: '/local-news', label: 'Local News' },
-        { path: '/international-news', label: 'International News' },
+        // { path: '/international-news', label: 'International News' },
     ];
     return (
         <nav className="bg-gray-900 text-white shadow-md fixed top-0 left-0 w-full z-50">
